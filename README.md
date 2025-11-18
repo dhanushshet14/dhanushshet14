@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Dhanush S Shet
 **A passionate Data Science || Data Analytic || Machine Learning Engineer from India**
 
-Email Me 👉 ✉️ **dhanushshet27jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dhanushshet27jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Deep Learning and GenAI
